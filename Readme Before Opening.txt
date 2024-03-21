@@ -1,10 +1,10 @@
-Hello I am AxGhost. A small html website creator. This Java File is my Beginner Tutorial File.
+Hello, I am AxGhost. A small HTML website creator. This Java File is my Beginner Tutorial File.
 
-This File Contains Comments Beside Code to Help You Understand the code.
+This File Contains Comments Beside the Code to Help You Understand the code.
 
-It is development.
+It is in development.
 
-There is going to be every line of code you need to understand for java.
+There will be every line of code you need to understand for Java.
 
 I Prefer you use Eclipse IDE to see this file.
 
